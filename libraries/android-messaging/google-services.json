@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1062987058399",
+    "project_id": "fcm-service-98ed5",
+    "storage_bucket": "fcm-service-98ed5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062987058399:android:c9304432c9d99b7281ed6a",
+        "android_client_info": {
+          "package_name": "io.verse.messaging.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062987058399-a7n464lshksfjpd4laom92edouhc9r0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfBSJJAokQSCytbQLNr1X6giJtRSIY0W4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062987058399-a7n464lshksfjpd4laom92edouhc9r0c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
